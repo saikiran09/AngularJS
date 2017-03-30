@@ -1,2 +1,2 @@
 # AngularJS
-Just for Angular Samples
+Just for Angular,jQuery and Bootstrap Samples
